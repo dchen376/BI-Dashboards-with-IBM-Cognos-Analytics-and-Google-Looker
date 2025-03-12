@@ -91,6 +91,39 @@ https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-googl
 #### Accessing Your Warehouse With Cognos Analytics
 ![image](https://github.com/user-attachments/assets/59abf1e2-98b9-4594-83a8-522edc100baf)
 
+![image](https://github.com/user-attachments/assets/57d23db1-fb90-4eed-aea5-399957714987)
+
+- steps
+  ![image](https://github.com/user-attachments/assets/44cc4d49-7a57-46c1-badb-fb1244873e45)
+![image](https://github.com/user-attachments/assets/f77190c7-440b-4f1f-a74a-1801593515e1)
+![image](https://github.com/user-attachments/assets/45732878-956e-4418-b223-bf1854fdff30)
+![image](https://github.com/user-attachments/assets/23c9b4fb-379f-4586-95dd-3fc5bf74fbaf)
+![image](https://github.com/user-attachments/assets/15284e6a-1493-420c-a09e-4574d7f9fb02)
+
+- in action
+  1. data source
+  ![image](https://github.com/user-attachments/assets/7c54fec5-9746-4bdc-96d1-8519a9397ad7)
+![image](https://github.com/user-attachments/assets/2364ed97-6690-485d-9597-bef818e89349)
+![image](https://github.com/user-attachments/assets/17c487fa-456f-4963-b993-98a0a3ea9cbc)
+![image](https://github.com/user-attachments/assets/597f28a5-12fe-42a7-8c46-66dfd96d10e7)
+  2. connection
+     ![image](https://github.com/user-attachments/assets/9d5ef93e-208c-4c87-becd-505a74d03471)
+![image](https://github.com/user-attachments/assets/a3720593-9d52-4262-8d99-167332b1112e)
+![image](https://github.com/user-attachments/assets/2994a3fc-6c04-4145-a6f9-a95d4e04ae1d)
+![image](https://github.com/user-attachments/assets/a1f9adbd-a73c-4f07-89ff-a371ed193faf)
+![image](https://github.com/user-attachments/assets/6b31d23a-9d98-49b0-93fd-0aca5296f8c0)
+![image](https://github.com/user-attachments/assets/2732420b-6eaf-439d-9c40-7d148f0ab8ab)
+
+3. data module
+   ![image](https://github.com/user-attachments/assets/4897d0d7-e993-48db-a803-634529ea514e)
+![image](https://github.com/user-attachments/assets/9dc51e1e-ab50-4015-b848-4eaa8347b081)
+![image](https://github.com/user-attachments/assets/6ab8816e-a2bb-419d-8d10-7064ee742295)
+
+4. dashboard
+   ![image](https://github.com/user-attachments/assets/48fb3ed0-b6be-4ec7-b2c9-bbd8015c3a73)
+
+![image](https://github.com/user-attachments/assets/30529e6f-8d9e-4f16-8118-6b4cb437ec04)
+
 
 
 
