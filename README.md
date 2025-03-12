@@ -88,10 +88,15 @@ https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-googl
 ![image](https://github.com/user-attachments/assets/29921131-fd28-4469-ae4f-328f9d812b2b)
 
 
+#### Accessing Your Warehouse With Cognos Analytics
+![image](https://github.com/user-attachments/assets/59abf1e2-98b9-4594-83a8-522edc100baf)
+
 
 
 
 ## M2 - Data Visualization and Dashboards with Google Looker Studio
+![image](https://github.com/user-attachments/assets/7b9f5611-0840-492c-ab51-d24e65ad480d)
+
 
 ### Creating and COnfiguring Visualization with Google Looker Studio
 
