@@ -118,7 +118,7 @@ https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-googl
 
 ![image](https://github.com/user-attachments/assets/24385740-516c-45e6-938c-a0b91ebb8f10)
 
-#### Connecting to Data Sources, Visualizing Reports, and Configuring Themes
+#### Connecting to Data Sources, Visualizing Reports, and Configuring Themes and Layouts
 
 
 
