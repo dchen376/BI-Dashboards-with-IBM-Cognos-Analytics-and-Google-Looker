@@ -98,7 +98,31 @@ https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-googl
 ![image](https://github.com/user-attachments/assets/7b9f5611-0840-492c-ab51-d24e65ad480d)
 
 
-### Creating and COnfiguring Visualization with Google Looker Studio
+### Creating and Configuring Visualization with Google Looker Studio
+
+#### Getting Started with Google Looker Studio
+![image](https://github.com/user-attachments/assets/e7eb76c2-5f66-41f6-8a9b-e2ac5d2e5b30)
+![image](https://github.com/user-attachments/assets/61b7af1e-d089-48a8-8d48-5bbbb5e5fe62)
+
+- access looker studio
+![image](https://github.com/user-attachments/assets/c2ff498a-8ede-42d0-ac2e-68e3699f4686)
+  - templates
+    ![image](https://github.com/user-attachments/assets/54be8123-36a3-4698-ac6f-a73b6d891b44)
+
+![image](https://github.com/user-attachments/assets/45656ec3-0510-412f-abb8-29aa07b48cad)
+
+- create Report
+  ![image](https://github.com/user-attachments/assets/d966886a-df74-4ef0-8ef6-b2bcc6c0a513)
+  ![image](https://github.com/user-attachments/assets/8c754e83-ff60-42f7-89cb-6be94f4b8da7)
+![image](https://github.com/user-attachments/assets/490b6828-8016-4dba-b136-f14cabb8c3cc)
+
+![image](https://github.com/user-attachments/assets/24385740-516c-45e6-938c-a0b91ebb8f10)
+
+#### Connecting to Data Sources, Visualizing Reports, and Configuring Themes
+
+
+
+
 
 
 
