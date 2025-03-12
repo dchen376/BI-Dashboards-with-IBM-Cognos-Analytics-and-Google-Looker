@@ -152,6 +152,53 @@ https://www.coursera.org/learn/bi-dashboards-with-ibm-cognos-analytics-and-googl
 ![image](https://github.com/user-attachments/assets/24385740-516c-45e6-938c-a0b91ebb8f10)
 
 #### Connecting to Data Sources, Visualizing Reports, and Configuring Themes and Layouts
+![image](https://github.com/user-attachments/assets/292f0249-8e9b-4297-bedd-ac8147a92aba)
+
+- data sources
+  ![image](https://github.com/user-attachments/assets/ea65a9c3-4e5d-47c5-a84e-7ec5db66324d)
+![image](https://github.com/user-attachments/assets/23faf188-2830-43ea-a290-688ffc54f2b4)
+
+- adding chart
+  ![image](https://github.com/user-attachments/assets/f3964cb9-b104-471c-97d8-e40979d218c0)
+- theme
+  ![image](https://github.com/user-attachments/assets/6c3e1101-ea6d-42dc-ad96-1fae149ebc56)
+
+![image](https://github.com/user-attachments/assets/57ebd3f4-e882-4522-8d90-6ffc1661268a)
+
+#### Working with Pages and Blended Data in Reports in Google Looker Studio
+![image](https://github.com/user-attachments/assets/025836c9-7c3c-47c5-822b-2a6e09717cba)
+
+- add pages
+  ![image](https://github.com/user-attachments/assets/a014ddf5-b328-4b55-b094-f6133813502e)
+
+- blend data feature
+![image](https://github.com/user-attachments/assets/90522c09-5763-4663-af95-c0169c8b3b62)
+
+![image](https://github.com/user-attachments/assets/5f12ef1a-0ea6-446f-9bb8-81bde4fcda23)
+![image](https://github.com/user-attachments/assets/ef430f69-e6ee-4161-8ae8-cedc7bde63ea)
+
+![image](https://github.com/user-attachments/assets/5be66457-048a-4b57-b067-6657ec681823)
+
+#### Adding Controls, Filters, and Visualizations in Reports in Google Looker Studio
+![image](https://github.com/user-attachments/assets/ef652ba2-e964-42fa-b0d1-894a662c4096)
+
+- controls
+  ![image](https://github.com/user-attachments/assets/ac1888ef-2086-4ba0-aa39-05ca7f4dac93)
+![image](https://github.com/user-attachments/assets/eb09fd0b-be93-4d13-80c7-f836092620cc)
+
+- adding filters to reports
+  ![image](https://github.com/user-attachments/assets/8821d522-42c1-4cdf-9161-72fccd28e08d)
+
+![image](https://github.com/user-attachments/assets/50d86b61-7b83-45e8-bff4-55bd2bd42d5c)
+![image](https://github.com/user-attachments/assets/d3454fde-c316-4870-8408-5469f1e3b53b)
+
+- visualization
+  ![image](https://github.com/user-attachments/assets/160e019c-bc33-441d-ad29-f415cb2a4604)
+  ![image](https://github.com/user-attachments/assets/d7fa3dcb-e2f7-476a-a289-ed648a848735)
+
+![image](https://github.com/user-attachments/assets/db1033c4-7722-4cd1-b62d-bd8eab151dcf)
+
+
 
 
 
